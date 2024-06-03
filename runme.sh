@@ -1,5 +1,3 @@
-#!/bin/bash
-
 make build_server
 make build_client
 touch /tmp/server.log
