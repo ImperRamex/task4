@@ -1,6 +1,4 @@
-#!/bin/bash
-
-echo "Start 100 clients" >> result.txt
+echo "100 clients" >> result.txt
 
 for i in {1..100}
 do
